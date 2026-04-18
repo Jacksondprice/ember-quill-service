@@ -1,0 +1,49 @@
+student_id,first_name,last_name,date_of_birth,grade,homeroom,student_email,guardian_name,guardian_email,guardian_phone,iep,lunch_status
+9158054,Lucas,Zhang,2010-12-28,11,A270,lucas.zhang10@oakmontusd.org,Ruby Zhang,rubyzhang38@cinderwire.net,(469) 959-7775,True,paid
+5232711,Gabriel,Ibarra,2012-12-15,9,D267,gabriel.ibarra12@oakmontusd.org,Liam Ibarra,liamibarra15@maplewire.net,281-958-6231,True,paid
+1321098,Benjamin,Simmons,2013-12-08,8,A200,benjamin.simmons13@oakmontusd.org,Ava Simmons,simmons.ava@cobaltletters.com,303-959-6313,True,free
+4310488,Fatima,Wright,2013-09-16,8,C164,fatima.wright13@oakmontusd.org,Anika Wright,awright74@slatedispatch.net,(602) 959-1661,False,paid
+1871638,Anika,Brooks,2012-05-31,9,C262,anika.brooks12@oakmontusd.org,Elena Brooks,ebrooks90@quillnote.net,407-959-5318,False,free
+2791438,Adrian,Garcia,2010-09-05,11,D247,adrian.garcia10@oakmontusd.org,Carter Garcia,cartergarcia37@birchinbox.net,(832) 959-6295,False,paid
+1959339,Josiah,Torres,2010-08-26,11,A189,josiah.torres10@oakmontusd.org,Chloe Torres,chloe_torres8@heronmail.net,(773) 958-8423,False,free
+2539283,Quinn,Russell,2014-10-22,7,B273,quinn.russell14@oakmontusd.org,Chloe Russell,chloe.russell@maplewire.net,(512) 959-8788,False,paid
+7792296,Jayden,Nakamura,2013-12-24,8,E288,jayden.nakamura13@oakmontusd.org,Ruby Nakamura,rnakamura74@birchdispatch.net,(480) 959-6939,False,free
+3788541,Grace,Brooks,2010-01-02,11,E258,grace.brooks10@oakmontusd.org,Imani Brooks,brooks.imani@tidalbox.net,(615) 959-3780,False,paid
+2833791,Malik,Sullivan,2014-01-06,7,D176,malik.sullivan14@oakmontusd.org,Emily Sullivan,emily.sullivan@cinderwire.net,(704) 958-6352,False,paid
+8143803,Tyler,Reyes,2011-05-26,10,A169,tyler.reyes11@oakmontusd.org,Anika Reyes,areyes93@tidalletters.com,214-959-1775,False,paid
+5274756,Malik,Ibarra,2015-01-04,6,E205,malik.ibarra15@oakmontusd.org,Maya Ibarra,mayaibarra85@birchdispatch.net,(737) 958-1508,False,paid
+2985884,Emily,Jackson,2015-06-11,6,D127,emily.jackson15@oakmontusd.org,Quinn Jackson,qjackson76@quillnote.net,(972) 959-8334,False,paid
+3963323,Fatima,Morales,2011-11-15,10,E184,fatima.morales11@oakmontusd.org,Isabella Morales,isabellamorales69@heronmail.net,832-958-5979,False,paid
+9172031,Javier,Hayes,2012-12-12,9,C200,javier.hayes12@oakmontusd.org,Daniel Hayes,hayes.daniel@cinderinbox.net,832-958-5972,False,reduced
+1874914,Nathan,Ortiz,2016-06-25,5,D213,nathan.ortiz16@oakmontusd.org,Camila Ortiz,ortiz.camila@birchinbox.net,312-959-2268,False,paid
+5353219,Chloe,Hernandez,2016-10-26,5,A130,chloe.hernandez16@oakmontusd.org,Nevaeh Hernandez,nevaeh_hernandez2@birchinbox.net,(210) 959-0982,False,paid
+1317238,Dominic,Delgado,2015-05-11,6,E132,dominic.delgado15@oakmontusd.org,Yara Delgado,yaradelgado66@birchdispatch.net,281-958-8443,False,free
+5124210,Yusuf,Chen,2011-09-28,10,E240,yusuf.chen11@oakmontusd.org,Zoe Okafor,zoeokafor15@heronwire.net,(615) 959-7482,True,paid
+3686819,Jackson,Russell,2013-10-22,8,C131,jackson.russell13@oakmontusd.org,Destiny Russell,destinyrussell4@birchinbox.net,303-958-3340,False,paid
+2121125,Leilani,Mitchell,2011-01-03,10,C235,leilani.mitchell11@oakmontusd.org,Leilani Mitchell,leilani_mitchell5@willowdispatch.net,(713) 959-0002,False,free
+4103367,Madison,Patel,2011-07-27,10,C306,madison.patel11@oakmontusd.org,Owen Patel,opatel96@birchletters.com,720-959-0722,False,paid
+3160512,Anika,Coleman,2015-06-26,6,D241,anika.coleman15@oakmontusd.org,Nevaeh Coleman,coleman.nevaeh@tidalbox.net,(720) 959-8446,False,paid
+3909663,Caleb,Zhang,2010-04-26,11,B284,caleb.zhang10@oakmontusd.org,Tariq Zhang,tariq_zhang1@cinderinbox.net,(678) 958-8804,False,reduced
+3469346,Josiah,Cruz,2016-03-25,5,C251,josiah.cruz16@oakmontusd.org,Isabella Cruz,isabellacruz4@birchinbox.net,786-958-6121,False,reduced
+3566000,Alejandro,Walker,2016-09-26,5,E146,alejandro.walker16@oakmontusd.org,Wyatt Walker,walker.wyatt@slatedispatch.net,(210) 958-2653,False,free
+7539723,Camila,Edwards,2011-11-19,10,B171,camila.edwards11@oakmontusd.org,Ethan Edwards,ethan.edwards@birchdispatch.net,615-958-3365,False,paid
+5415165,Alejandro,Shah,2011-01-13,10,D300,alejandro.shah11@oakmontusd.org,Tyler Shah,tyler.shah@cinderwire.net,720-958-9399,False,paid
+2185374,Noah,Quintero,2012-08-01,9,D279,noah.quintero12@oakmontusd.org,Brianna Quintero,bquintero70@birchinbox.net,(303) 959-4546,False,free
+7483203,Noah,Alvarez,2013-02-23,8,E269,noah.alvarez13@oakmontusd.org,Isaiah Coleman,coleman.isaiah@slatedispatch.net,(972) 959-7319,False,paid
+7688635,Fatima,Gonzalez,2014-07-05,7,D125,fatima.gonzalez14@oakmontusd.org,Santiago Gonzalez,gonzalez.santiago@cinderdispatch.net,(832) 959-5663,True,free
+1373384,Kayla,Ibarra,2011-11-12,10,E110,kayla.ibarra11@oakmontusd.org,Kevin Ibarra,kevin.ibarra@birchletters.com,720-958-6510,False,paid
+1931613,Aisha,Sanchez,2013-04-06,8,A205,aisha.sanchez13@oakmontusd.org,Alejandro Sanchez,alejandro.sanchez@heronwire.net,214-959-7299,False,free
+5830508,Leilani,Kowalski,2012-10-21,9,C193,leilani.kowalski12@oakmontusd.org,Aisha Kowalski,aisha_kowalski5@tidalletters.com,(972) 958-1643,False,reduced
+8876649,Olivia,Anderson,2013-01-06,8,E235,olivia.anderson13@oakmontusd.org,Chloe Anderson,chloe.anderson@asterwire.net,(469) 959-2520,True,paid
+3645818,Maria,Diaz,2016-09-18,5,D235,maria.diaz16@oakmontusd.org,Dominic Diaz,ddiaz93@tidalletters.com,(678) 959-1092,False,free
+9762584,Delilah,Reyes,2014-04-03,7,B302,delilah.reyes14@oakmontusd.org,Emily Reyes,ereyes79@asterwire.net,(678) 958-0398,False,paid
+4718271,Liam,Murphy,2010-01-13,11,E272,liam.murphy10@oakmontusd.org,Santiago Murphy,santiagomurphy82@cinderdispatch.net,832-959-8538,False,paid
+2858325,Dominic,Bennett,2011-06-03,10,D152,dominic.bennett11@oakmontusd.org,Nora Bennett,bennett.nora@birchinbox.net,720-958-8217,False,paid
+7946815,Maya,Diaz,2010-10-20,11,E287,maya.diaz10@oakmontusd.org,Isaiah Diaz,diaz.isaiah@quillnote.net,(206) 959-0450,False,reduced
+8814630,Camila,Reyes,2014-05-04,7,E181,camila.reyes14@oakmontusd.org,Noah Reyes,nreyes87@heronmail.net,773-959-4903,False,reduced
+4968946,Olivia,Delgado,2010-05-22,11,C214,olivia.delgado10@oakmontusd.org,Ethan Delgado,edelgado97@cinderinbox.net,(972) 959-3574,False,paid
+7371167,Isaiah,Bennett,2013-04-11,8,A303,isaiah.bennett13@oakmontusd.org,Maria Bennett,maria_bennett4@tidalletters.com,678-958-7760,False,paid
+6227147,Ava,Morales,2011-05-22,10,C284,ava.morales11@oakmontusd.org,Layla Simmons,layla.simmons@birchletters.com,678-958-0306,False,paid
+3979631,Lucas,Gonzalez,2011-12-09,10,B140,lucas.gonzalez11@oakmontusd.org,Aisha Gonzalez,gonzalez.aisha@tidalbox.net,(210) 959-8969,False,free
+9606675,Malik,Morales,2011-11-29,10,B140,malik.morales11@oakmontusd.org,Chloe Morales,chloe.morales@birchinbox.net,(305) 959-3707,True,paid
+1094246,Olivia,Mendoza,2011-01-09,10,E153,olivia.mendoza11@oakmontusd.org,Jayden Mendoza,jaydenmendoza58@heronwire.net,(602) 959-2789,False,free
